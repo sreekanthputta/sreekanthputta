@@ -1,4 +1,4 @@
-# Hey, I'm Sreekanth 👋
+# Hey, I'm Sreekanth. 👋
 
 **Backend engineer who loves building things that work well at scale.**
 
