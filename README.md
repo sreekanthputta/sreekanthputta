@@ -33,7 +33,11 @@ I spend my days designing microservices, crafting APIs, and thinking about distr
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sreekanthputta&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sreekanthputta&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekanthputta&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
